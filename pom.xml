@@ -61,7 +61,7 @@
   <distributionManagement>
     <repository>
       <id>java.net-m2-repository</id>
-      <url>http://maven.jenkins-ci.org/content/repositories/releases/</url>
+      <url>https://maven.jenkins-ci.org/content/repositories/releases/</url>
     </repository>
     <site>
       <id>github-project-site</id>
